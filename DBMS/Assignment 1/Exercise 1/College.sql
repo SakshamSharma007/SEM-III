@@ -7,40 +7,8 @@ CREATE TABLE COLLEGE
 
 INSERT INTO COLLEGE 
 VALUES
-(
-		'Stanford',
-        'CA',
-        15000
-);
-
-INSERT INTO COLLEGE 
-VALUES
-(
-		'Berkeley',
-        'CA',
-        36000
-);
-
-INSERT INTO COLLEGE 
-VALUES
-(
-		'MIT',
-        'MA',
-        10000
-);
-
-INSERT INTO COLLEGE 
-VALUES
-(
-		'Cornell',
-        'NY',
-        21000
-);
-
-INSERT INTO COLLEGE 
-VALUES
-(
-		'Harvard',
-        'MA',
-        50040
-);
+	('Stanford','CA',15000),
+	('Berkeley','CA',36000),
+	('MIT','MA',10000),
+    ('Cornell','NY',21000),
+	('Harvard','MA',50040);
