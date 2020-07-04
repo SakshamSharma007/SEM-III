@@ -1,5 +1,3 @@
-USE exercise1;
-
 -- Query 1
 SELECT sName, DoB
 FROM student;
