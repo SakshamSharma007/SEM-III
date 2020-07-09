@@ -5,7 +5,7 @@ FROM student;
 -- Query 2
 SELECT sName
 FROM student
-WHERE GPA>3.7;
+WHERE GPA > 3.7;
 
 -- Query 3
 SELECT sName
